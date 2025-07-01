@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "screen_resolution": [
+      2520,
+      1680
+    ],
+    "record_time": "2025-06-30 21:21:29"
+  },
+  "commands": [
+    [
+      "click",
+      [
+        648,
+        1648,
+        "Button.left"
+      ],
+      1.0
+    ],
+    [
+      "click",
+      [
+        2345,
+        17,
+        "Button.left"
+      ],
+      1.0
+    ],
+    [
+      "click",
+      [
+        1049,
+        1643,
+        "Button.left"
+      ],
+      1.0
+    ],
+    [
+      "click",
+      [
+        1407,
+        408,
+        "Button.left"
+      ],
+      1.0
+    ]
+  ]
+}
