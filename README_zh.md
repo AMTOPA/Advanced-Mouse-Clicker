@@ -1,6 +1,6 @@
-# 高级鼠标连点器 🖱️⚡
+# <center>高级鼠标连点器 🖱️⚡</center>
 
-简体中文|[ENGLISH](READEME.md)
+<center>简体中文|[ENGLISH](README.md)</center>
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
