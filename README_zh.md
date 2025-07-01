@@ -1,6 +1,6 @@
 <center><h1>高级鼠标连点器 🖱️⚡</h1></center>
 
-<center>简体中文|<a href="README.md"</a>ENGLISH</center>
+<center>简体中文|<a href="README.md"</a>ENGLISH</center><hr/>
 
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
