@@ -1,6 +1,7 @@
 <center><h1>Advanced Mouse Clicker 🖱️⚡</h1></center>
 
 <center><a href="README_zh.md">简体中文</a>  | ENGLISH</center>
+<br>
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
