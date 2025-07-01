@@ -1,7 +1,6 @@
-<center><h1>Advanced Mouse Clicker 🖱️⚡</h1></center>
+<div align="center"><h1>Advanced Mouse Clicker 🖱️⚡</h1>
 
-<center><a href="README_zh.md">简体中文</a>  | ENGLISH</center>
-<br>
+<a href="README_zh.md">简体中文</a>  | ENGLISH
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,6 +9,8 @@
 [![简体中文](https://img.shields.io/badge/语言-简体中文-red)](README_zh.md)
 [![Blog](https://img.shields.io/badge/📖_My_Blog-math--enthusiast.top-FF5733)](https://math-enthusiast.top/)
 
+</div>
+  
 A powerful mouse and keyboard automation tool with recording and playback capabilities.
 
 ## ✨ Features

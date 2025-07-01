@@ -1,7 +1,6 @@
-<center><h1>高级鼠标连点器 🖱️⚡</h1></center>
+<div align="center"><h1>高级鼠标连点器 🖱️⚡</h1>
 
-<center>简体中文|<a href="README.md"</a>ENGLISH</center><br/>
-
+简体中文|<a href="README.md"</a>ENGLISH
 
 [![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -10,6 +9,8 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Blog](https://img.shields.io/badge/📖_My_Blog-math--enthusiast.top-FF5733)](https://math-enthusiast.top/)
 
+</div>
+  
 一款功能强大的鼠标键盘自动化工具，支持录制和回放功能。
 
 ## ✨ 功能特性
@@ -65,7 +66,3 @@
 ---
 
 ⭐ 如果觉得这个项目有用，请在GitHub上给它点个star吧！
-
-
-
-
