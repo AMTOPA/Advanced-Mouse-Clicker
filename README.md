@@ -1,64 +1,65 @@
-# 高级鼠标连点器 🖱️⚡
+# Advanced Mouse Clicker 🖱️⚡
 
-[![GitHub release](https://img.shields.io/github/release/yourusername/advanced-mouse-clicker.svg)](https://github.com/yourusername/advanced-mouse-clicker/releases)
+[简体中文](README_zh.md) |ENGLISH
+
+[![GitHub release](https://img.shields.io/github/release/AMTOPA/Advanced-Mouse-Clicker.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://www.microsoft.com/windows)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/advanced-mouse-clicker/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AMTOPA/Advanced-Mouse-Clicker/graphs/commit-activity)
+[![简体中文](https://img.shields.io/badge/语言-简体中文-red)](README.zh.md)
 
-一款功能强大的鼠标键盘自动化工具，支持录制和回放功能。
+A powerful mouse and keyboard automation tool with recording and playback capabilities.
 
-## ✨ 功能特性
+## ✨ Features
 
-- 🎥 **键鼠录制**: 记录鼠标移动、点击和键盘输入
-- ▶️ **动作回放**: 可自定义设置回放录制的动作
-- ✏️ **录制编辑**: 录制后可修改脚本
-- 🔄 **组合回放**: 支持多个录制脚本顺序播放
-- 🎚️ **热键控制**: 为动作分配并触发热键
-- ♾️ **循环功能**: 无限循环或设置特定重复次数
+- 🎥 **Mouse & Keyboard Recording**: Record your mouse movements, clicks and keyboard inputs
+- ▶️ **Playback**: Replay recorded actions with customizable settings
+- ✏️ **Recording Editing**: Modify recorded scripts after creation
+- 🔄 **Combination Playback**: Play multiple recordings in sequence
+- 🎚️ **Hotkey Control**: Assign and trigger actions with hotkeys
+- ♾️ **Loop Functionality**: Infinite loop or set specific repeat counts
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-1. 从[发布页面](https://github.com/yourusername/advanced-mouse-clicker/releases)下载最新版本
-2. 双击 `高级鼠标连点器.exe` 启动程序
-3. 开始录制新动作或加载已有脚本
+1. Download the latest release from the [Releases page](https://github.com/AMTOPA/Advanced-Mouse-Clicker/releases)
+2. Double click `AdvancedMouseClicker.exe` to launch the application
+3. Start recording your actions or load existing scripts
 
-## 🖥️ 界面概览
+## 🖥️ Interface Overview
 
-![程序界面](pic/layout.png)
+![Application Layout](pic/layout.png)
 
-界面组成:
+The interface consists of:
 
-- **顶部面板**: 录制控制、文件操作和回放控制
-- **左侧面板**: 可用的JSON脚本文件列表(双击编辑)
-- **主区域**: 脚本编辑和配置选项
+- **Top Panel**: Recording controls, file operations, and playback controls
+- **Left Panel**: List of available JSON script files (double-click to edit)
+- **Main Area**: Script editing and configuration options
 
-## 🎮 使用指南
+## 🎮 Usage Guide
 
-### 基本操作
+### Basic Operation
 
-- 点击热键按钮为每个脚本分配热键
-- 按下分配的热键开始回放
-- 再次按下热键或ESC键停止回放
+- Assign hotkeys to each script by clicking the hotkey button
+- Press the assigned hotkey to start playback
+- Press ESC or click the hotkey again to stop playback
 
-### 捆绑回放
+### Bundled Playback
 
-1. 勾选要包含的脚本旁边的复选框
-2. 设置每个脚本的重复次数(-1表示无限循环)
-3. 点击右上角的"开始"按钮
-4. 脚本将按照列表中的顺序依次播放
+1. Check the checkbox next to scripts you want to include
+2. Set the number of repetitions for each script (-1 for infinite loop)
+3. Click the "Start" button in the top-right corner
+4. Scripts will play in sequence according to their order in the list
 
-> 💡 **提示**: 当前回放顺序遵循文件列表顺序。您可以通过重命名文件(如01_脚本.json, 02_脚本.json)来控制顺序。
+> 💡 **Tip**: Currently the playback order follows the file list order. You can rename files (e.g., 01_script.json, 02_script.json) to control the sequence.
 
-## 📜 许可证
+## 📜 License
 
-本项目采用MIT许可证 - 详见[LICENSE](LICENSE)文件。
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 参与贡献
+## 🤝 Contributing
 
-欢迎贡献代码！请提交issue或pull request。
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-⭐ 如果觉得这个项目有用，请在GitHub上给它点个star吧！
-
-
+⭐ If you find this project useful, please consider starring it on GitHub!
